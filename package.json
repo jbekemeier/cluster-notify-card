@@ -1,0 +1,12 @@
+{
+  "name": "cluster-notify-card",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Home Assistant Lovelace card: list of the latest cluster notifications from a sensor",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check cluster-notify-card.js"
+  },
+  "license": "MIT"
+}
